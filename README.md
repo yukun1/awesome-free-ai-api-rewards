@@ -10,6 +10,7 @@
 
 ---
 
+
 ## 🎁 邀请注册奖励
 
 目前整理的平台，通过邀请链接注册后，通常可以获得：
@@ -39,18 +40,50 @@
 
 | 平台          | 新用户奖励 |  邀请额外奖励 |  每日签到 | 邀请注册                                              |
 | ----------- | ----: | ------: | ----: | ------------------------------------------------- |
-| KKtoken     |   ≈75 | ≈50～100 | ≈25/天 | [注册](https://kktoken.cc/sign-up?aff=ndog)         |
 | JustDoWork  |   ≈75 | ≈50～100 | ≈25/天 | [注册](https://api.justwoker.icu/register?aff=yJXm) |
-| AgentRouter |   ≈75 | ≈50～100 | ≈25/天 | [注册](https://agentrouter.org/register?aff=hWE9)   |
-| TabiToken   |   ≈75 | ≈50～100 | ≈25/天 | [注册](https://tabitoken.com/sign-up?aff=Vjev)      |
-| Vyce AI     |  ≈75+ | ≈50～100 | ≈25/天 | [注册](https://vyceai.com/signup?ref=VYCE_TY29UW)   |
-| SeekAI      |   ≈75 | ≈50～100 | ≈25/天 | [注册](https://seekai.cc/sign-up?aff=H1hu)          |
+| KKtoken     |   ≈75 | ≈50～100 | ≈20/天 | [注册](https://kktoken.cc/sign-up?aff=ndog)         |
+| AgentRouter |   ≈75 | ≈50～100 | ≈15/天 | [注册](https://agentrouter.org/register?aff=hWE9)   |
+| TabiToken   |   ≈75 | ≈50～100 | ≈10/天 | [注册](https://tabitoken.com/sign-up?aff=Vjev)      |
+| Vyce AI     |  ≈75+ | ≈50～100 | ≈10/天 | [注册](https://vyceai.com/signup?ref=VYCE_TY29UW)   |
+| SeekAI      |   ≈75 | ≈50～100 | ≈20/天 | [注册](https://seekai.cc/sign-up?aff=H1hu)          |
 
 > **注意：** 上表为目前活动的大致奖励范围，不代表所有平台永久固定。不同平台的奖励机制可能存在差异，最终以注册页面及账号后台实际显示为准。
 
 ---
 
-# 🔥 1. KKtoken
+# 🔥 1. JustDoWork极度推荐
+
+👉 **[使用邀请链接注册 JustDoWork](https://api.justwoker.icu/register?aff=yJXm)**
+
+JustDoWork 提供 AI API 中转服务，并采用类似 New API 的管理面板。
+当前可用opus4.8
+
+适合：
+
+* Claude
+* GPT
+* DeepSeek
+* AI Coding
+* OpenAI API
+* Anthropic API
+* 第三方 AI 客户端
+
+### 🎁 邀请注册福利
+
+通过邀请链接注册可以获得：
+
+* 📝 注册赠送额度
+* 🎁 被邀请额外奖励
+* 📅 每日签到奖励
+* 🔑 API Key
+* 🤖 AI 模型调用额度
+
+如果主要用于 **Claude Code、Cursor 等 AI 编程工具**，可以注册后直接创建 API Key 进行测试。
+
+---
+
+
+# 🔥 2. KKtoken
 
 👉 **[使用邀请链接注册 KKtoken](https://kktoken.cc/sign-up?aff=ndog)**
 
@@ -79,35 +112,6 @@ KKtoken 是 AI API 中转服务，可以用于调用多种 AI 模型。
 
 ---
 
-# 🔥 2. JustDoWork
-
-👉 **[使用邀请链接注册 JustDoWork](https://api.justwoker.icu/register?aff=yJXm)**
-
-JustDoWork 提供 AI API 中转服务，并采用类似 New API 的管理面板。
-
-适合：
-
-* Claude
-* GPT
-* DeepSeek
-* AI Coding
-* OpenAI API
-* Anthropic API
-* 第三方 AI 客户端
-
-### 🎁 邀请注册福利
-
-通过邀请链接注册可以获得：
-
-* 📝 注册赠送额度
-* 🎁 被邀请额外奖励
-* 📅 每日签到奖励
-* 🔑 API Key
-* 🤖 AI 模型调用额度
-
-如果主要用于 **Claude Code、Cursor 等 AI 编程工具**，可以注册后直接创建 API Key 进行测试。
-
----
 
 # 🔥 3. AgentRouter
 
