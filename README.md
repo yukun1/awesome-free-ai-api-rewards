@@ -41,11 +41,14 @@
 | 平台          | 新用户奖励 |  邀请额外奖励 |  每日签到 | 邀请注册                                              |
 | ----------- | ----: | ------: | ----: | ------------------------------------------------- |
 | JustDoWork  |   ≈75 | ≈50～100 | ≈25/天 | [注册](https://api.justwoker.icu/register?aff=yJXm) |
+| motomoto    |   ≈75 | ≈50～100 | ≈25/天 | [注册](https://motomoto.lol/sign-up?aff=9eFt) |
+| AIPM        |   ≈75 | ≈50～100 | ≈25/天 | [注册](https://emtf.aipm9527.online/sign-up?aff=gMXZ) |
 | KKtoken     |   ≈75 | ≈50～100 | ≈20/天 | [注册](https://kktoken.cc/sign-up?aff=ndog)         |
 | AgentRouter |   ≈75 | ≈50～100 | ≈15/天 | [注册](https://agentrouter.org/register?aff=hWE9)   |
 | TabiToken   |   ≈75 | ≈50～100 | ≈10/天 | [注册](https://tabitoken.com/sign-up?aff=Vjev)      |
 | Vyce AI     |  ≈75+ | ≈50～100 | ≈10/天 | [注册](https://vyceai.com/signup?ref=VYCE_TY29UW)   |
 | SeekAI      |   ≈75 | ≈50～100 | ≈20/天 | [注册](https://seekai.cc/sign-up?aff=H1hu)          |
+
 
 > **注意：** 上表为目前活动的大致奖励范围，不代表所有平台永久固定。不同平台的奖励机制可能存在差异，最终以注册页面及账号后台实际显示为准。
 
@@ -224,6 +227,48 @@ SeekAI 提供 AI 相关 API / 模型服务。
 
 ---
 
+
+🔥 7. MotoMoto 公益站
+
+👉 使用我的邀请链接注册 MotoMoto
+
+MotoMoto 是一个公益性质的 AI API 服务，目前不收费。
+
+目前提供：
+
+🤖 GPT-5.5
+🤖 GPT-5.6-sol
+🎁 每日签到可获得 50 美元额度
+🔑 支持 API 调用
+💰 公益站，目前不收费
+API 地址
+https://motomoto.lol/v1
+🎁 邀请注册
+
+使用我的邀请链接注册：
+
+https://motomoto.lol/sign-up?aff=9eFt
+
+注册后可以进入平台查看自己的额度以及具体使用规则。
+
+⚠️ 公益站的模型、额度、签到规则及服务状态可能随时调整，请以平台实际情况为准。
+
+🔥 8. EMTF AI
+
+👉 使用邀请链接注册 EMTF AI
+
+EMTF AI 提供 AI API 相关服务。
+
+🎁 邀请注册
+
+我的邀请链接：
+
+https://emtf.aipm9527.online/sign-up?aff=gMXZ
+
+通过邀请链接注册后，可以查看平台当前提供的新用户奖励及可用额度。
+
+⚠️ 具体模型、额度、价格及邀请奖励以平台注册页面和账号后台实际显示为准。
+
 # 💰 如何获得更多免费额度？
 
 这些平台的奖励机制通常可以理解为：
@@ -283,12 +328,6 @@ SeekAI 提供 AI 相关 API / 模型服务。
 
 为了方便直接注册，这里统一整理。
 
-### 🟠 KKtoken
-
-👉 https://kktoken.cc/sign-up?aff=ndog
-
-**注册后可获得注册奖励 + 邀请额外奖励。**
-
 ---
 
 ### 🔵 JustDoWork
@@ -296,6 +335,24 @@ SeekAI 提供 AI 相关 API / 模型服务。
 👉 https://api.justwoker.icu/register?aff=yJXm
 
 **注册后可获得注册奖励 + 邀请额外奖励。**
+
+
+### 🟠 KKtoken
+
+👉 https://kktoken.cc/sign-up?aff=ndog
+
+**注册后可获得注册奖励 + 邀请额外奖励。**
+
+
+---
+
+MotoMoto
+
+https://motomoto.lol/sign-up?aff=9eFt
+
+EMTF AI
+
+https://emtf.aipm9527.online/sign-up?aff=gMXZ
 
 ---
 
